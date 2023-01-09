@@ -1,0 +1,50 @@
+[
+  {
+    "label": "Propel",
+    "value": "Propel",
+    "decimals": 18,
+    "address": "0xe0ce60af0850bf54072635e66e79df17082a1109",
+    "icon": "https://assets.coingecko.com/coins/images/8794/small/-RNl00DU_400x400.jpg?1601543259",
+    "tags": ["tokens"]
+  },
+  {
+    "label": "MATIC",
+    "value": "MATIC",
+    "decimals": 18,
+    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "icon": "https://tokens.1inch.io/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0.png",
+    "tags": ["native"]
+  },
+  {
+    "label": "USDT",
+    "value": "Tether USD",
+    "decimals": 6,
+    "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+    "icon": "https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
+    "tags": ["tokens", "PEG:USD"]
+  },
+  {
+    "label": "DAI",
+    "value": "Dai Stablecoin",
+    "decimals": 18,
+    "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+    "icon": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png",
+    "tags": ["tokens", "PEG:USD"]
+  },
+  {
+    "label": "AMPT",
+    "value": "Amplify Protocol",
+    "decimals": 18,
+    "address": "0x4ED92A1De77EE2638A2a42bE48DD4720B3A2734a",
+    "icon": "https://assets.coingecko.com/coins/images/23695/small/ampt_pictogram_color_1920px_2.png?1645080512",
+    "tags": ["tokens", "PEG:BTC"]
+  },
+  {
+    "label": "ZRX",
+    "value": "0x (ZRX)",
+    "decimals": 18,
+    "address": "0x5559edb74751a0ede9dea4dc23aee72cca6be3d5",
+    "icon": "https://assets.coingecko.com/coins/images/863/small/0x.png?1547034672",
+    "tags": ["tokens"]
+  }
+]

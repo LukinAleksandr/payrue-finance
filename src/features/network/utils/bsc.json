@@ -1,0 +1,58 @@
+[
+  {
+    "icon": "https://assets.coingecko.com/coins/images/8794/small/-RNl00DU_400x400.jpg?1601543259",
+    "tags": ["tokens"],
+    "address": "0x9B44Df3318972bE845d83f961735609137C4C23c",
+    "decimals": 18,
+    "label": "Propel",
+    "value": "Propel"
+  },
+  {
+    "icon": "https://tokens.1inch.io/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c_1.png",
+    "tags": ["native"],
+    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "decimals": 18,
+    "label": "BNB",
+    "value": "BNB"
+  },
+  {
+    "icon": "https://tokens.1inch.io/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c_1.png",
+    "tags": ["tokens", "PEG:BNB"],
+    "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+    "decimals": 18,
+    "label": "Wrapped BNB",
+    "value": "WBNB"
+  },
+  {
+    "icon": "https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
+    "tags": ["tokens", "PEG:USD"],
+    "address": "0x55d398326f99059ff775485246999027b3197955",
+    "decimals": 18,
+    "label": "Tether USD",
+    "value": "USDT"
+  },
+  {
+    "icon": "https://tokens.1inch.io/0x4fabb145d64652a948d72533023f6e7a623c7c53.png",
+    "tags": ["tokens", "PEG:USD"],
+    "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "decimals": 18,
+    "label": "BUSD Token",
+    "value": "BUSD"
+  },
+  {
+    "icon": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
+    "tags": ["tokens", "PEG:USD"],
+    "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+    "decimals": 18,
+    "label": "USD Coin",
+    "value": "USDC"
+  },
+  {
+    "icon": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png",
+    "tags": ["tokens", "PEG:USD"],
+    "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+    "decimals": 18,
+    "label": "Dai Token",
+    "value": "DAI"
+  }
+]

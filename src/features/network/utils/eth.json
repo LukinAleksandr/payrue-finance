@@ -1,0 +1,44 @@
+[
+  {
+    "value": "ETH",
+    "label": "Ethereum",
+    "decimals": 18,
+    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "icon": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png",
+    "tags": ["native", "PEG:ETH"]
+  },
+  {
+    "value": "WETH",
+    "label": "Wrapped Ether",
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "decimals": 18,
+    "icon": "https://tokens.1inch.io/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
+    "tags": ["tokens", "PEG:ETH"]
+  },
+  {
+    "value": "USDT",
+    "label": "Tether USD",
+    "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "decimals": 6,
+    "icon": "https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
+    "tags": ["tokens", "PEG:USD"]
+  },
+  {
+    "value": "USDC",
+    "label": "USD Coin",
+    "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "decimals": 6,
+    "icon": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
+    "eip2612": true,
+    "domainVersion": "2",
+    "tags": ["tokens", "PEG:USD"]
+  },
+  {
+    "value": "AMPT",
+    "label": "Amplify Protocol",
+    "decimals": 18,
+    "address": "0x3F17cfAd23C2014C5a32722557Df87DFF46819dA",
+    "icon": "https://assets.coingecko.com/coins/images/23695/small/ampt_pictogram_color_1920px_2.png?1645080512",
+    "tags": ["tokens", "PEG:BTC"]
+  }
+]
